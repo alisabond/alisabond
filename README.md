@@ -8,9 +8,7 @@
 <br />
 
 <p align="center">
-  <b>Full-Stack JavaScript Engineer focused on React, Next.js, Node.js and modern UI architecture.</b><br/>
-  I care about clean code, performance, and developer experience.<br/>
-  Turning ideas into fast, reliable, production-ready apps.
+I am a Full-Stack Developer with a strong focus on modern web development using React, Next.js and JavaScript/TypeScript, complemented by practical backend skills with Node.js and Express. I work confidently across the full lifecycle of a feature, from building stable, well-structured user interfaces to contributing to backend logic and API integration, which helps me deliver predictable and maintainable functionality across the application.
 </p>
 
 <br />
