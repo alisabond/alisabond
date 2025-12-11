@@ -7,7 +7,21 @@
 
 <br />
 
-### My stack and tools :
+<p align="center">
+  <b>Full-Stack JavaScript Engineer focused on React, Next.js, Node.js and modern UI architecture.</b><br/>
+  I care about clean code, performance, and developer experience.<br/>
+  Turning ideas into fast, reliable, production-ready apps.
+</p>
+
+<br />
+
+<p align="center">
+  <img src="./assets/laptop.gif" width="260" alt="Laptop animation"/>
+</p>
+
+<br />
+
+<h3 align="center">My stack and tools :</h3>
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
