@@ -15,111 +15,112 @@
   <!-- Row 1 -->
   <tr>
     <td align="center" width="88">
-      <img src="./images/html5.svg" width="44" height="44" alt="HTML5"/><br>HTML5
+      <img src="./assets/icons/html5/html5-original.svg" width="44" height="44" alt="HTML5"/><br>HTML5
     </td>
     <td align="center" width="88">
-      <img src="./images/css3.svg" width="44" height="44" alt="CSS3"/><br>CSS3
+      <img src="./assets/icons/css3/css3-original.svg" width="44" height="44" alt="CSS3"/><br>CSS3
     </td>
     <td align="center" width="88">
-      <img src="./images/sass.svg" width="44" height="44" alt="Sass"/><br>Sass
+      <img src="./assets/icons/sass/sass-original.svg" width="44" height="44" alt="Sass"/><br>Sass
     </td>
     <td align="center" width="88">
-      <img src="./images/bootstrap.svg" width="44" height="44" alt="Bootstrap"/><br>Bootstrap
+      <img src="./assets/icons/bootstrap/bootstrap-original.svg" width="44" height="44" alt="Bootstrap"/><br>Bootstrap
     </td>
     <td align="center" width="88">
-      <img src="./images/materialui.svg" width="44" height="44" alt="Material UI"/><br>Material UI
+      <img src="./assets/icons/materialui/materialui-original.svg" width="44" height="44" alt="Material UI"/><br>Material UI
     </td>
     <td align="center" width="88">
-      <img src="./images/javascript.svg" width="44" height="44" alt="JavaScript"/><br>JavaScript
+      <img src="./assets/icons/javascript/javascript-original.svg" width="44" height="44" alt="JavaScript"/><br>JavaScript
     </td>
     <td align="center" width="88">
-      <img src="./images/typescript.svg" width="44" height="44" alt="TypeScript"/><br>TypeScript
+      <img src="./assets/icons/typescript/typescript-original.svg" width="44" height="44" alt="TypeScript"/><br>TypeScript
     </td>
     <td align="center" width="88">
-      <img src="./images/react.svg" width="44" height="44" alt="React"/><br>React
+      <img src="./assets/icons/react/react-original.svg" width="44" height="44" alt="React"/><br>React
     </td>
   </tr>
 
   <!-- Row 2 -->
   <tr>
     <td align="center" width="88">
-      <img src="./images/angular.svg" width="44" height="44" alt="Angular"/><br>Angular
+      <img src="./assets/icons/angular/angular-original.svg" width="44" height="44" alt="Angular"/><br>Angular
     </td>
     <td align="center" width="88">
-      <img src="./images/nextjs.svg" width="44" height="44" alt="Next.js"/><br>Next.js
+      <img src="./assets/icons/nextjs/nextjs-original.svg" width="44" height="44" alt="Next.js"/><br>Next.js
     </td>
     <td align="center" width="88">
-      <img src="./images/redux.svg" width="44" height="44" alt="Redux"/><br>Redux
+      <img src="./assets/icons/redux/redux-original.svg" width="44" height="44" alt="Redux"/><br>Redux
     </td>
     <td align="center" width="88">
-      <img src="./images/jquery.svg" width="44" height="44" alt="jQuery"/><br>jQuery
+      <img src="./assets/icons/jquery/jquery-original.svg" width="44" height="44" alt="jQuery"/><br>jQuery
     </td>
     <td align="center" width="88">
-      <img src="./images/nodejs.svg" width="44" height="44" alt="Node.js"/><br>Node.js
+      <img src="./assets/icons/nodejs/nodejs-original.svg" width="44" height="44" alt="Node.js"/><br>Node.js
     </td>
     <td align="center" width="88">
-      <img src="./images/express.svg" width="44" height="44" alt="Express.js"/><br>Express.js
+      <img src="./assets/icons/express/express-original.svg" width="44" height="44" alt="Express.js"/><br>Express.js
     </td>
     <td align="center" width="88">
-      <img src="./images/graphql.svg" width="44" height="44" alt="GraphQL"/><br>GraphQL
+      <img src="./assets/icons/graphql/graphql-plain.svg" width="44" height="44" alt="GraphQL"/><br>GraphQL
     </td>
     <td align="center" width="88">
-      <img src="./images/webpack.svg" width="44" height="44" alt="Webpack"/><br>Webpack
+      <img src="./assets/icons/webpack/webpack-original.svg" width="44" height="44" alt="Webpack"/><br>Webpack
     </td>
   </tr>
 
   <!-- Row 3 -->
   <tr>
     <td align="center" width="88">
-      <img src="./images/docker.svg" width="44" height="44" alt="Docker"/><br>Docker
+      <img src="./assets/icons/docker/docker-original.svg" width="44" height="44" alt="Docker"/><br>Docker
     </td>
     <td align="center" width="88">
-      <img src="./images/linux.svg" width="44" height="44" alt="Linux"/><br>Linux
+      <img src="./assets/icons/linux/linux-original.svg" width="44" height="44" alt="Linux"/><br>Linux
     </td>
     <td align="center" width="88">
-      <img src="./images/bash.svg" width="44" height="44" alt="Bash"/><br>Bash
+      <img src="./assets/icons/bash/bash-original.svg" width="44" height="44" alt="Bash"/><br>Bash
     </td>
     <td align="center" width="88">
-      <img src="./images/powershell.svg" width="44" height="44" alt="PowerShell"/><br>PowerShell
+      <img src="./assets/icons/powershell/powershell-original.svg" width="44" height="44" alt="PowerShell"/><br>PowerShell
     </td>
     <td align="center" width="88">
-      <img src="./images/git.svg" width="44" height="44" alt="Git"/><br>Git
+      <img src="./assets/icons/git/git-original.svg" width="44" height="44" alt="Git"/><br>Git
     </td>
     <td align="center" width="88">
-      <img src="./images/github.svg" width="44" height="44" alt="GitHub"/><br>GitHub
+      <img src="./assets/icons/github/github-original.svg" width="44" height="44" alt="GitHub"/><br>GitHub
     </td>
     <td align="center" width="88">
-      <img src="./images/azure.svg" width="44" height="44" alt="Azure"/><br>Azure
+      <img src="./assets/icons/azure/azure-original.svg" width="44" height="44" alt="Azure"/><br>Azure
     </td>
     <td align="center" width="88">
-      <img src="./images/aws.svg" width="44" height="44" alt="AWS"/><br>AWS
+      <img src="./assets/icons/amazonwebservices/amazonwebservices-original.svg" width="44" height="44" alt="AWS"/><br>AWS
     </td>
   </tr>
 
   <!-- Row 4 -->
   <tr>
     <td align="center" width="88">
-      <img src="./images/mongodb.svg" width="44" height="44" alt="MongoDB"/><br>MongoDB
+      <img src="./assets/icons/mongodb/mongodb-original.svg" width="44" height="44" alt="MongoDB"/><br>MongoDB
     </td>
     <td align="center" width="88">
-      <img src="./images/mysql.svg" width="44" height="44" alt="MySQL"/><br>MySQL
+      <img src="./assets/icons/mysql/mysql-original.svg" width="44" height="44" alt="MySQL"/><br>MySQL
     </td>
     <td align="center" width="88">
-      <img src="./images/postgresql.svg" width="44" height="44" alt="PostgreSQL"/><br>PostgreSQL
+      <img src="./assets/icons/postgresql/postgresql-original.svg" width="44" height="44" alt="PostgreSQL"/><br>PostgreSQL
     </td>
     <td align="center" width="88">
-      <img src="./images/maria-db.svg" width="44" height="44" alt="MariaDB"/><br>MariaDB
+      <img src="./assets/icons/mariadb/mariadb-original.svg" width="44" height="44" alt="MariaDB"/><br>MariaDB
     </td>
     <td align="center" width="88">
-      <img src="./images/jest.svg" width="44" height="44" alt="Jest"/><br>Jest
+      <img src="./assets/icons/jest/jest-plain.svg" width="44" height="44" alt="Jest"/><br>Jest
     </td>
     <td align="center" width="88">
-      <img src="./images/figma.svg" width="44" height="44" alt="Figma"/><br>Figma
+      <img src="./assets/icons/figma/figma-original.svg" width="44" height="44" alt="Figma"/><br>Figma
     </td>
   </tr>
 
 </table>
 </div>
+
 
 <!--
 **alisabond/alisabond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
