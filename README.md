@@ -16,7 +16,11 @@
 <br />
 
 <p align="center">
-  <img src="./assets/laptop.gif" width="260" alt="Laptop animation"/>
+  <img
+    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Rzc2Fsa2doOHhoczVsOHJsc2Z6dGl4Zm84MHlrbTVkd2t2cDFwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ule4vhcY1xEKQ/giphy.gif"
+    width="300"
+    alt="Coding animation"
+  />
 </p>
 
 <br />
