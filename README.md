@@ -129,6 +129,17 @@ I am a Full-Stack Developer with a strong focus on modern web development using 
 </div>
 
 
+---
+<h3 align="center">Connect with me :</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alisabond" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="36" alt="LinkedIn" style="margin-right:10px;" /></a><a href="https://t.me/alisabond" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="36" alt="Telegram" style="margin-right:10px;" /></a><a href="https://discordapp.com/users/1092901635312844940" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="36" alt="Discord" style="margin-right:10px;" /></a><a href="mailto:alisabond78@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="36" alt="Email" style="margin-right:10px;" /></a><a href="https://github.com/alisabond" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="36" alt="GitHub" style="margin-right:10px;" /></a><a href="https://www.instagram.com/bond_alisa/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="36" alt="Instagram" /></a>
+</p>
+
+<p align="center">
+  <sub>© Alisa Korniienko · Full-Stack Engineer</sub>
+</p>
+
 <!--
 **alisabond/alisabond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
