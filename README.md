@@ -54,10 +54,16 @@ I am a Full-Stack Developer with a strong focus on modern web development using 
     <td align="center" width="88">
       <img src="./assets/icons/reactrouter/reactrouter-original.svg" width="44" height="44" alt="React Router"/><br>React Router
     </td>
+    <td align="center" width="88">
+      <img src="./assets/icons/vite/vite-original.svg" alt="Vite" width="44" height="44"/><br>Vite
+    </td>
   </tr>
 
   <!-- Row 2 — UI, styling, tools -->
   <tr>
+    <td align="center" width="88">
+      <img src="./assets/icons/webpack/webpack-original.svg" alt="webpack" width="44" height="44"/><br>Webpack
+    </td>
     <td align="center" width="88">
       <img src="./assets/icons/materialui/materialui-original.svg" width="44" height="44" alt="Material UI"/><br>Material UI
     </td>
@@ -74,7 +80,7 @@ I am a Full-Stack Developer with a strong focus on modern web development using 
       <img src="./assets/icons/css3/css3-original.svg" width="44" height="44" alt="CSS3"/><br>CSS3
     </td>
     <td align="center" width="88">
-      <img src="./assets/icons/figma/figma-original.svg" width="44" height="44" alt="Figma"/><br>Figma
+      <img src="./assets/icons/htmx/htmx-original.svg" alt="htmx" width="44" height="44"/><br>htmx
     </td>
     <td align="center" width="88">
       <img src="./assets/icons/jquery/jquery-original.svg" width="44" height="44" alt="jQuery"/><br>jQuery
@@ -99,6 +105,9 @@ I am a Full-Stack Developer with a strong focus on modern web development using 
       <img src="./assets/icons/mariadb/mariadb-original.svg" width="44" height="44" alt="MariaDB"/><br>MariaDB
     </td>
     <td align="center" width="88">
+      <img src="./assets/icons/graphql/graphql-plain.svg" alt="GraphQL" width="44" height="44"/><br>GraphQL
+    </td>
+    <td align="center" width="88">
       <img src="./assets/icons/docker/docker-original.svg" width="44" height="44" alt="Docker"/><br>Docker
     </td>
     <td align="center" width="88">
@@ -115,6 +124,9 @@ I am a Full-Stack Developer with a strong focus on modern web development using 
   <!-- Row 4 — Git, GitHub, Azure -->
   <tr>
     <td align="center" width="88">
+      <img src="./assets/icons/npm/npm-original.svg" alt="npm" width="44" height="44" alt="npm"/><br>npm
+    </td>
+    <td align="center" width="88">
       <img src="./assets/icons/git/git-original.svg" width="44" height="44" alt="Git"/><br>Git
     </td>
     <td align="center" width="88">
@@ -123,14 +135,25 @@ I am a Full-Stack Developer with a strong focus on modern web development using 
     <td align="center" width="88">
       <img src="./assets/icons/azure/azure-original.svg" width="44" height="44" alt="Azure"/><br>Azure
     </td>
+    <td align="center" width="88">
+      <img src="./assets/icons/figma/figma-original.svg" width="44" height="44" alt="Figma"/><br>Figma
+    </td>
+    <td align="center" width="88">
+      <img src="./assets/icons/swagger/swagger-original.svg" alt="Swagger" width="44" height="44"/><br>Swagger
+    </td>
+    <td align="center" width="88">
+      <img src="./assets/icons/sonarqube/sonarqube-original.svg" alt="SonarQube" width="44" height="44"/><br>SonarQube
+    </td>
   </tr>
-
+  
 </table>
 </div>
 
 
 ---
-
+<p align="center">
+  <sub><b>Let’s connect:</b></sub>
+</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/alisabond" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="36" alt="LinkedIn" style="margin-right:10px;" /></a><a href="https://t.me/alisabond" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="36" alt="Telegram" style="margin-right:10px;" /></a><a href="https://discordapp.com/users/1092901635312844940" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="36" alt="Discord" style="margin-right:10px;" /></a><a href="mailto:alisabond78@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="36" alt="Email" style="margin-right:10px;" /></a><a href="https://github.com/alisabond" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="36" alt="GitHub" style="margin-right:10px;" /></a><a href="https://www.instagram.com/bond_alisa/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="36" alt="Instagram" /></a>
 </p>
