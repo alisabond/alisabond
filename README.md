@@ -96,13 +96,13 @@ I am a Full-Stack Developer with a strong focus on modern web development using 
       <img src="./assets/icons/mongodb/mongodb-original.svg" width="44" height="44" alt="MongoDB"/><br>MongoDB
     </td>
     <td align="center" width="88">
+      <img src="./assets/icons/mongoose/mongoose-original.svg" alt="Mongoose" width="44" height="44"/><br>Mongoose
+    </td>
+    <td align="center" width="88">
       <img src="./assets/icons/mysql/mysql-original.svg" width="44" height="44" alt="MySQL"/><br>MySQL
     </td>
     <td align="center" width="88">
       <img src="./assets/icons/postgresql/postgresql-original.svg" width="44" height="44" alt="PostgreSQL"/><br>PostgreSQL
-    </td>
-    <td align="center" width="88">
-      <img src="./assets/icons/mariadb/mariadb-original.svg" width="44" height="44" alt="MariaDB"/><br>MariaDB
     </td>
     <td align="center" width="88">
       <img src="./assets/icons/graphql/graphql-plain.svg" alt="GraphQL" width="44" height="44"/><br>GraphQL
