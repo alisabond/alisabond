@@ -55,7 +55,7 @@ I am a Full-Stack Developer with a strong focus on modern web development using 
       <img src="./assets/icons/reactrouter/reactrouter-original.svg" width="44" height="44" alt="React Router"/><br>React Router
     </td>
     <td align="center" width="88">
-      <img src="./assets/icons/vite/vite-original.svg" alt="Vite" width="44" height="44"/><br>Vite
+      <img src="./assets/icons/vitejs/vitejs-original.svg" alt="Vite" width="44" height="44"/><br>Vite
     </td>
   </tr>
 
